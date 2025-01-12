@@ -1,5 +1,5 @@
 import parthmittal from "./sibinlogo.png";
-import profilePic from "./profilepic.jpg";
+import profilePic from "./profile.jpg";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
