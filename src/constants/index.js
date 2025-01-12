@@ -93,7 +93,7 @@ import { FaGolang } from "react-icons/fa6";
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
+  "https://drive.google.com/file/d/1kC-JYyESksgC5L3hOFNG-3kSGaOtAVPx/view?usp=drive_link";
 export const repoLink = "https://github.com/Sibints2000?tab=achievements";
 
 export const callToAction = "https://www.linkedin.com/in/sibints2000/";
@@ -107,22 +107,22 @@ export const navLinks = [
     id: "education",
     title: "Education",
   },
-  {
-    id: "achievements",
-    title: "Achievements",
-  },
+  // {
+  //   id: "achievements",
+  //   title: "Achievements",
+  // },
   {
     id: "projects",
     title: "Projects",
   },
-  {
-    id: "openSource",
-    title: "Open Source",
-  },
-  {
-    id: "extraCurricular",
-    title: "Extra Curricular",
-  },
+  // {
+  //   id: "openSource",
+  //   title: "Open Source",
+  // },
+  // {
+  //   id: "extraCurricular",
+  //   title: "Extra Curricular",
+  // },
   {
     id: "contactMe",
     title: "Contact Me",
