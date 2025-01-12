@@ -1,4 +1,4 @@
-import parthmittal from "./parth.svg";
+import parthmittal from "./sibinlogo.png";
 import profilePic from "./profile-pic.jpg";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
@@ -15,7 +15,7 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import nitk from "./nitk.png";
+import nitk from "./ajiet.jpg";
 import cluboard from "./cluboard.png";
 import cash_flow from "./cash_flow.jpg";
 import freadom from "./freadom.jpg";
@@ -30,16 +30,16 @@ import portfolio from "./portfolio.jpg";
 import zulip from "./zulip.jpg";
 import publiclab from "./publiclab.png";
 import cdc from "./cdc.png";
-import chargeswap from "./chargeswap.png";
-import placeicon from "./place-icon.svg";
-import recruitment from "./recruitment.png";
+import chargeswap from "./rio.png";
+import placeicon from "./btd.svg";
+import recruitment from "./tastieee.png";
 import huntly from "./huntly.png";
-import oracle from "./oracle.jpg";
-import comicify_ai from "./comicify-ai.png";
-import greentrust from "./green_trust.png";
-import averlon from "./averlon.jpg";
+import oracle from "./rio.png";
+import comicify_ai from "./logo1.svg";
+import greentrust from "./hotcoffee.png";
+import averlon from "./ksp.jpg";
 import devfolio from "./devfolio.png";
-import pba from "./pba_logo.jpeg";
+import pba from "./sdm.png";
 import ethglobal from "./ethglobal.png";
 import polkadot from "./polkadot.jpeg";
 import lightspeed from "./lightspeed.png";
@@ -97,5 +97,5 @@ export {
   dennisivy,
   manipal,
   icon,
-  ethforall
+  ethforall,
 };
