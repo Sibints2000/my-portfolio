@@ -49,13 +49,13 @@ const Footer = () => (
         </div>
       </div>
 
-      <div className="md:ml-auto mt-10 md:mt-0">
+      {/* <div className="md:ml-auto mt-10 md:mt-0">
         <img
           src={profilePic}
           alt="Parth Mittal"
           className="w-[160px] h-[170px] border-2 border-teal-200 relative z-[5] rounded-full"
         />
-      </div>
+      </div> */}
     </div>
     <div className="text-center font-poppins font-normal text-dimWhite text-xs sm:text-sm pb-4">
       <p>Made with 💙 by Sibin T S & the Open Source Community</p>
